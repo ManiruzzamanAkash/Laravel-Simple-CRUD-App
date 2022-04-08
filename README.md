@@ -1,6 +1,14 @@
 ## Simple Laravel CRUD Application
 
-A simple laravel task management application using Laravel 8.25
+A simple laravel task management application using Laravel 8.25.
+
+This is actually the video of Youtube.
+
+Laravel Complete Task Management Application in 45 Minutes using Laravel 8.x with Database & ORM -
+
+[![Watch the video](https://i9.ytimg.com/vi_webp/lVUFuS1EQhM/mqdefault.webp?v=6011cb24&sqp=CJTFwJIG&rs=AOn4CLBabPTj_ngHbY-aXTq6DCgUTckVdg)](https://youtu.be/lVUFuS1EQhM)
+
+View in Youtube - https://youtu.be/lVUFuS1EQhM
 
 # Installation 
 
@@ -13,11 +21,24 @@ git clone https://github.com/ManiruzzamanAkash/Laravel-Simple-CRUD-App.git
 composer install
 ````
 3. Copy `.env.example` file and create `.env` file
-4. Run Project inside project directory - 
+4. Add Database Credential like yours in `.env`
+```php
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=your_db_name
+DB_USERNAME=root
+DB_PASSWORD=
+```
+5. Go to the project - 
+```sh
+cd Laravel-Simple-CRUD-App
+```
+6. Run Project inside that directory - 
 ````sh
 php artisan serve
 ````
-5. Open in Browser 
+7. Open in Browser 
 ````sh
 http://localhost:8000
 ````
@@ -34,3 +55,4 @@ http://localhost:8000
 
 #### Edit Task Page
 <img src="https://i.ibb.co/ssDy296/Edit-task.png" alt="Edit-task" border="0">
+
