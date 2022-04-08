@@ -6,9 +6,8 @@ This is actually the video of Youtube.
 
 Laravel Complete Task Management Application in 45 Minutes using Laravel 8.x with Database & ORM -
 
-[![Watch the video](https://i9.ytimg.com/vi_webp/lVUFuS1EQhM/mqdefault.webp?v=6011cb24&sqp=CJTFwJIG&rs=AOn4CLBabPTj_ngHbY-aXTq6DCgUTckVdg)](https://youtu.be/lVUFuS1EQhM)
+[![Watch the video](https://i.ibb.co/XyBXf8k/Screenshot-2022-04-08-at-6-03-10-PM.png)](https://youtu.be/lVUFuS1EQhM)
 
-View in Youtube - https://youtu.be/lVUFuS1EQhM
 
 # Installation 
 
